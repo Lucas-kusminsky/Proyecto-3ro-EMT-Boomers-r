@@ -1,0 +1,42 @@
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\bin\Debug\conexiónDB.exe
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\bin\Debug\conexiónDB.pdb
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\bin\Debug\conexiónDB.xml
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\obj\x86\Debug\conexiónDB.Resources.resources
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\obj\x86\Debug\conexiónDB.vbproj.GenerateResource.Cache
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\obj\x86\Debug\conexiónDB.exe
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\obj\x86\Debug\conexiónDB.xml
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\obj\x86\Debug\conexiónDB.pdb
+C:\Users\Poroto\AppData\Local\Temporary Projects\conexiónDB\obj\x86\Debug\conexiónDB.fCalculadora.resources
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.exe
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.xml
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.pdb
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\bin\Debug\conexiónDB.exe
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\bin\Debug\conexiónDB.pdb
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\bin\Debug\conexiónDB.xml
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.fCalculadora.resources
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.Resources.resources
+C:\Users\Poroto\Desktop\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.vbproj.GenerateResource.Cache
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.exe
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.xml
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.pdb
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\obj\x86\Debug\conexiónDB.exe
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\obj\x86\Debug\conexiónDB.xml
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\obj\x86\Debug\conexiónDB.pdb
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\bin\Debug\conexiónDB.exe
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\bin\Debug\conexiónDB.pdb
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\bin\Debug\conexiónDB.xml
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\obj\x86\Debug\conexiónDB.fCalculadora.resources
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\obj\x86\Debug\conexiónDB.Resources.resources
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\obj\x86\Debug\conexiónDB.vbproj.GenerateResource.Cache
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.exe
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.xml
+C:\POROTO\Educación\UTU\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.pdb
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.exe
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.xml
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.pdb
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\bin\Debug\conexiónDB.exe
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\bin\Debug\conexiónDB.pdb
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\bin\Debug\conexiónDB.xml
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.fCalculadora.resources
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.Resources.resources
+C:\POROTO\Educación\UTU\E.M.T\Bachillerato de Informática\3º\Programación III\Ejemplos\Calculadora con conexión a DB\conexiónDB\conexiónDB\obj\x86\Debug\conexiónDB.vbproj.GenerateResource.Cache
